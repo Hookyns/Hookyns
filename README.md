@@ -5,7 +5,7 @@
 
 ![Hookyns's GitHub stats](https://github-readme-stats.vercel.app/api?username=hookyns&count_private=true&theme=nord)
 
-![Hookyns trophy](https://github-profile-trophy.vercel.app/?username=hookyns&theme=nord&row=1)
+![Hookyns trophy](https://github-profile-trophy.vercel.app/?username=hookyns&theme=nord&row=1&margin-w=20)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hookyns&layout=compact&theme=nord)
 
