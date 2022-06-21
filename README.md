@@ -21,5 +21,5 @@ THEME tokyonight looks better for me, but trophy is bugged with that theme.
 * <sub><i><a href="https://github.com/Hookyns/ts-reflection">public</a></i></sub> TypeScript runtime reflection and generics `tst-reflect`
 * <sub><i><a href="https://github.com/Hookyns/tst-expression">public</a></i></sub> TypeScript .NET-like Expression<> `tst-expression`
 * <sub><i><a href="https://github.com/Hookyns/NetLeaf">public</a></i></sub> .NET-like host framework for JavaScript `@netleaf/*`
-* <sub><i><a href="https://github.com/Hookyns/linqxy">public</a></i></sub> LINQ for TypeScript (using `tst-expression`)
+* <sub><i><a href="https://github.com/Hookyns/linqxy">public</a></i></sub> LINQ for TypeScript (using `tst-expression`) `LINQxy` /linkzē/
 * <sub><i><a href="https://github.com/Hookyns/tyml">public</a></i></sub> TYML - .NET YAML task runner (custom local pipelines)
